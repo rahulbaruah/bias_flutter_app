@@ -7,7 +7,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name=".App"
-        android:label="MasterStudy"
+        android:label="BIAS App"
         android:networkSecurityConfig="@xml/network_security"
         android:icon="@mipmap/ic_launcher">
         <activity
