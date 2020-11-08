@@ -1,4 +1,4 @@
-package com.example.bias_app
+package com.xcraft.bias_app
 
 import io.flutter.app.FlutterApplication
 import io.flutter.plugin.common.PluginRegistry.PluginRegistrantCallback

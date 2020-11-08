@@ -1,4 +1,4 @@
-package com.example.bias_app
+package com.xcraft.bias_app
 
 import androidx.annotation.NonNull
 import io.flutter.embedding.android.FlutterActivity
