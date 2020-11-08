@@ -4,6 +4,8 @@
 
 import 'dart:async';
 
+import 'package:inject.example.coffee/coffee_app.dart';
+import 'package:inject.example.coffee/src/drip_coffee_module.dart';
 import 'package:third_party.dart.inject.example.coffee/coffee_app.dart';
 import 'package:third_party.dart.inject.example.coffee/src/drip_coffee_module.dart';
 
