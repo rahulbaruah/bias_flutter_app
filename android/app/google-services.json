@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "787470094102",
-    "firebase_url": "https://masterstudy-app.firebaseio.com",
-    "project_id": "masterstudy-app",
-    "storage_bucket": "masterstudy-app.appspot.com"
+    "project_number": "40438946083",
+    "firebase_url": "https://bias-app-97456.firebaseio.com",
+    "project_id": "bias-app-97456",
+    "storage_bucket": "bias-app-97456.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:787470094102:android:5349b4d65a5ad432844a37",
+        "mobilesdk_app_id": "1:40438946083:android:fbcf9a0efc1a2c57c99496",
         "android_client_info": {
           "package_name": "com.xcraft.bias_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "787470094102-8un268jd46hbsmu4q9eg2uf0ed7humhn.apps.googleusercontent.com",
+          "client_id": "40438946083-439841k1ff0co2ic4f51ikced52glaij.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCxF3ldM-OC2kXwH83ZlFQfpnxAF65Q2Us"
+          "current_key": "AIzaSyAQsORj15cJsKOlA1lWj4b0U1ggAWjOM6k"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "787470094102-8un268jd46hbsmu4q9eg2uf0ed7humhn.apps.googleusercontent.com",
+              "client_id": "40438946083-439841k1ff0co2ic4f51ikced52glaij.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
